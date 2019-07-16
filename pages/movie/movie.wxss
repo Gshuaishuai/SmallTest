@@ -1,0 +1,34 @@
+@import "template/movieList/movieList.wxss";
+
+.search{
+  background-color: #f2f2f2;
+  height: 80rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.search-img{
+  margin: auto 0 auto 20rpx;
+  height: 22rpx;
+  width:22rpx;
+}
+.xx-img{
+  height: 30rpx;
+  width:30rpx;
+  margin:auto 0 auto 10rpx;
+}
+.search input{
+  height: 100%;
+  width:  600rpx;
+  margin-left: 10rpx;
+  font-size: 28rpx;
+}
+.placeHolder{
+  font-size: 28rpx;
+  color: #d1d1d1;
+  margin-left: 20rpx;
+}
+.search-panel{
+  position: absolute;
+  top:80rpx;
+}

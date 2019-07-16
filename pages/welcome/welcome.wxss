@@ -1,0 +1,32 @@
+page{
+    background-color: #b3d45b;
+}
+.container
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user_image{
+  width: 200rpx;
+  height:200rpx;
+  margin-top: 200rpx;
+}
+.user_text1{
+  margin-top: 100rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  margin-bottom: 200rpx;
+}
+.user_text2{
+  font-size: 22rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+}
+.moto_container{
+  border: 1px solid #405f80;
+  width:200rpx;
+  height:80rpx;
+  border-radius: 5px;
+  text-align: center;
+}
